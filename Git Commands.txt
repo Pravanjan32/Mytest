@@ -10,6 +10,9 @@ git add
 git config --global user.name "mass mutual"
 git config --global user.email "massmutual@gmail.com"
 
+git config --global user.name "Pravanjan32"
+git config --global user.email "Pnayak32@massmutual.com"
+
 git commit -m "basic commands added to notes"
 git restore "filename"
 git restore --staged "filename"
